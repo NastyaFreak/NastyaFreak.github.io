@@ -6,7 +6,6 @@
   <title>Space Z</title>
   <link rel="stylesheet" href="css/NastyaCSS.css">
 </head>
-
 <body>
  <header class="na4alo">
     <div class="otdel">
@@ -68,7 +67,6 @@
             </div>
         </div>
     </section>
-
         <section class="recommendations">
             <div class="otdel columns-container">
                 <h2 class="skryto">Рекомендации для космических туристов</h2>
@@ -91,7 +89,6 @@
             </div>
         </section>
  </main>
-
     <footer class="site-konzovka">
         <div class="otdel konzovka-columns-container">
             <div class="left-column">
@@ -135,5 +132,4 @@
         </div>
     </footer>
 </body>
-
 </html>
